@@ -1,0 +1,6 @@
+{
+  "name": "Kida8C - Social Platform",
+  "description": "Discover videos, share moments, and connect with creators around the world with Kida8C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
